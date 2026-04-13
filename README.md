@@ -122,4 +122,4 @@ twine upload dist/*
 
 ## License
 
-MIT © Your Name
+MIT © Gyanankur Baruah
