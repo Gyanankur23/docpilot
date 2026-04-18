@@ -103,9 +103,23 @@ pip install docpilot
 ### From source
 
 ```bash
-git clone https://github.com/yourusername/docpilot.git
+git clone https://github.com/Gyanankur23/docpilot.git
 cd docpilot
 pip install -e ".[dev]"
+```
+
+---
+
+## Comprehensive Example
+
+See `example.py` for a full 10-page **Quarterly Business Report** demonstrating:
+- Custom branding and colors
+- Financial tables and KPI dashboards
+- Risk registers and project portfolios
+- Multi-page structure with page breaks
+
+```bash
+python example.py
 ```
 
 ---
