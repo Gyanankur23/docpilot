@@ -1,4 +1,4 @@
-# docpilot 📄
+# Docpilot 📄
 
 **Generate professional, branded PDF reports with a minimal fluent API.**
 
