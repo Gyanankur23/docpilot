@@ -54,10 +54,10 @@ Add `PYPI_API_TOKEN` to your GitHub repo → Settings → Secrets.
 Then to release:
 
 ```bash
-git tag v0.1.0
+git tag v0.1.0 
 git push origin v0.1.0
 ```
 
-## Bump version
+## Bump version 
 
 Edit `docpilot/version.py` and `pyproject.toml`, then rebuild and re-upload.
