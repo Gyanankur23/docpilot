@@ -27,7 +27,7 @@ pip install --index-url https://test.pypi.org/simple/ docpilot
 
 ## GitHub Actions – auto-publish on tag push
 
-Create  `.github/workflows/publish.yml`:
+Create  `.github/workflows/publish.yml`: 
 
 ```yaml
 name: Publish to PyPI
