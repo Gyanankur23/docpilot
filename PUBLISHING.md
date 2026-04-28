@@ -1,6 +1,6 @@
 # Publishing docpilot to PyPI
 
-## One-time setup
+## One-time setup 
 
 ```bash
 pip install build twine
