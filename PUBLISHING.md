@@ -18,7 +18,7 @@ twine check dist/*        # sanity check before upload
 twine upload dist/*       # prompts for username (__token__) + API token
 ```
 
-## Test on TestPyPI first (optional)
+## Test on TestPyPI first (optional) 
 
 ```bash
 twine upload --repository testpypi dist/*
