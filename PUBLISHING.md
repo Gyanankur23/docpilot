@@ -15,7 +15,7 @@ python -m build           # creates dist/docpilot-0.1.0.tar.gz and .whl
 
 twine check dist/*        # sanity check before upload
 
-twine upload dist/*       # prompts for username (__token__) + API token
+twine upload dist/*       # prompts for username (__token__) + API token 
 ```
 
 ## Test on TestPyPI first (optional) 
