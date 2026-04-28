@@ -6,8 +6,7 @@
 pip install build twine
 ```
 
-Register at https://pypi.org and create an API token under Account Settings → API tokens.
-
+Register at https://pypi.org and create an API token under Account Settings → API tokens. 
 ## Build & upload
 
 ```bash
